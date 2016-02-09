@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="93906541-b8ae-48f3-af46-f6b679b016bc" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/index.html" afterPath="$PROJECT_DIR$/app/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Kangaroo_Web.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -29,7 +29,7 @@
         <entry file="file://$PROJECT_DIR$/app/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.50549453">
-              <caret line="58" column="41" selection-start-line="58" selection-start-column="41" selection-end-line="58" selection-end-column="41" />
+              <caret line="58" column="42" selection-start-line="58" selection-start-column="42" selection-end-line="58" selection-end-column="42" />
               <folding />
             </state>
           </provider>
@@ -729,12 +729,12 @@
       <updated>1455034525955</updated>
       <workItem from="1455034530665" duration="1074000" />
       <workItem from="1455039111552" duration="910000" />
-      <workItem from="1455052361175" duration="1206000" />
+      <workItem from="1455052361175" duration="1587000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3190000" />
+    <option name="totallyTimeSpent" value="3571000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1920" height="1080" extended-state="0" />
@@ -828,7 +828,7 @@
     <entry file="file://$PROJECT_DIR$/app/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.50549453">
-          <caret line="58" column="41" selection-start-line="58" selection-start-column="41" selection-end-line="58" selection-end-column="41" />
+          <caret line="58" column="42" selection-start-line="58" selection-start-column="42" selection-end-line="58" selection-end-column="42" />
           <folding />
         </state>
       </provider>
