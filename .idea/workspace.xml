@@ -4,6 +4,7 @@
     <list default="true" id="93906541-b8ae-48f3-af46-f6b679b016bc" name="Default" comment="">
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
 =======
 >>>>>>> a050f682144c4f1a59f13b04102006c7943e755e
@@ -12,6 +13,9 @@
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/resources/footer.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
 >>>>>>> 5ee88c27a9072913d44bd9c6fb50e41767c9ab6a
+=======
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/resources/footer.html" afterPath="$PROJECT_DIR$/app/resources/footer.html" />
+>>>>>>> 3ac55088490d78a7499c11eb0836ac89c342f5fc
     </list>
     <ignored path="Kangaroo_Web.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -34,9 +38,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/index.html">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
             <state vertical-scroll-proportion="0.14782609">
@@ -46,18 +51,26 @@
               <caret line="60" column="0" selection-start-line="60" selection-start-column="0" selection-end-line="60" selection-end-column="0" />
 =======
             <state vertical-scroll-proportion="-6.3137255">
+=======
+            <state vertical-scroll-proportion="0.50549453">
+>>>>>>> 3ac55088490d78a7499c11eb0836ac89c342f5fc
               <caret line="58" column="32" selection-start-line="58" selection-start-column="32" selection-end-line="58" selection-end-column="32" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="footer.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="footer.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/resources/footer.html">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state vertical-scroll-proportion="0.09419152">
               <caret line="4" column="16" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="16" />
 >>>>>>> 5ee88c27a9072913d44bd9c6fb50e41767c9ab6a
+=======
+            <state vertical-scroll-proportion="-0.29411766">
+              <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+>>>>>>> 3ac55088490d78a7499c11eb0836ac89c342f5fc
               <folding />
             </state>
           </provider>
@@ -702,15 +715,20 @@
       <workItem from="1455039111552" duration="910000" />
       <workItem from="1455052361175" duration="1587000" />
 <<<<<<< HEAD
+<<<<<<< HEAD
       <workItem from="1455055093582" duration="177000" />
 >>>>>>> a050f682144c4f1a59f13b04102006c7943e755e
 =======
       <workItem from="1455055093582" duration="550000" />
 >>>>>>> 5ee88c27a9072913d44bd9c6fb50e41767c9ab6a
+=======
+      <workItem from="1455055093582" duration="739000" />
+>>>>>>> 3ac55088490d78a7499c11eb0836ac89c342f5fc
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
     <option name="totallyTimeSpent" value="3637000" />
@@ -727,6 +745,9 @@
 >>>>>>> a050f682144c4f1a59f13b04102006c7943e755e
 =======
     <option name="totallyTimeSpent" value="4121000" />
+=======
+    <option name="totallyTimeSpent" value="4310000" />
+>>>>>>> 3ac55088490d78a7499c11eb0836ac89c342f5fc
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1920" height="1080" extended-state="0" />
@@ -850,8 +871,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/index.html">
+    <entry file="file://$PROJECT_DIR$/app/resources/footer.html">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
         <state vertical-scroll-proportion="0.14782609">
@@ -863,15 +885,24 @@
 =======
         <state vertical-scroll-proportion="-6.3137255">
           <caret line="58" column="32" selection-start-line="58" selection-start-column="32" selection-end-line="58" selection-end-column="32" />
+=======
+        <state vertical-scroll-proportion="-0.29411766">
+          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+>>>>>>> 3ac55088490d78a7499c11eb0836ac89c342f5fc
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/resources/footer.html">
+    <entry file="file://$PROJECT_DIR$/app/index.html">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state vertical-scroll-proportion="0.09419152">
           <caret line="4" column="16" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="16" />
 >>>>>>> 5ee88c27a9072913d44bd9c6fb50e41767c9ab6a
+=======
+        <state vertical-scroll-proportion="0.50549453">
+          <caret line="58" column="32" selection-start-line="58" selection-start-column="32" selection-end-line="58" selection-end-column="32" />
+>>>>>>> 3ac55088490d78a7499c11eb0836ac89c342f5fc
           <folding />
         </state>
       </provider>
